@@ -33,8 +33,7 @@ after Capybara api: :ChocolaPOGGERS:`,
     worksAt: "CapyTermination Inc",
   },
   {
-    message:
-      "did you know that capypabaras eat their own poop in the morning? unique diet. protein rich. he pull up.",
+    message: "protein rich. he pull up.",
     name: "Ari Dutilh",
     pfp: "/img/ari.png",
     worksAt: "Buildergroop Corporation",
