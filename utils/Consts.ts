@@ -113,4 +113,10 @@ after Capybara api: :ChocolaPOGGERS:`,
     pfp: "/img/shukaaa.png",
     worksAt: "professional meow meow men"
   },
+  {
+    message: "capy api give me happiness",
+    name: 'harshaster',
+    pfp: "/img/harshaster.jpg",
+    worksAt: "cfc (capy fan club)"
+  }
 ];
